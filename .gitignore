@@ -1,0 +1,6 @@
+.idea
+matchi-booking/node_modules
+matchi-booking/test-results/
+matchi-booking/playwright-report/
+matchi-booking/blob-report/
+matchi-booking/playwright/.cache/
